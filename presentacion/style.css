@@ -1,0 +1,22 @@
+*{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 4px;
+}
+body{
+    background-color: azure;
+    padding:4px;
+}
+header{ 
+    display:flex;
+    justify-content:center;
+    background-color:pink;
+}
+#sech{
+display:flex;
+}
+.imgh{
+    height:70px;
+    width:70px;
+}
